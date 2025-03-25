@@ -1,4 +1,4 @@
-<img src="https://messungbacd.com/images/solutions/cloud-analysis.jpg" alt="Parc" width="1300" height="400"/>
+<img src="https://messungbacd.com/images/solutions/cloud-analysis.jpg" alt="Parc" width="1300" height="450"/>
 
 # Monitoring Cloud and IoT 
 
