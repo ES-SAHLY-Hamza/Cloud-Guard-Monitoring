@@ -1,4 +1,4 @@
-## Une solution IoT basée sur une architecture microservices
+## Solution IoT basée sur une architecture microservices
 <img src="https://messungbacd.com/images/solutions/cloud-analysis.jpg" alt="Parc" width="1100" height="400"/>
 
 # Monitoring Cloud and IoT 
