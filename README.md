@@ -1,4 +1,6 @@
+## Une solution IoT basée sur une architecture microservices
 <img src="https://messungbacd.com/images/solutions/cloud-analysis.jpg" alt="Parc" width="1100" height="400"/>
+
 # Monitoring Cloud and IoT 
 
 Ce projet et son architecture ont été conçus dans le cadre d'une solution IoT basée sur une architecture microservices. Il permet la gestion et la surveillance des dispositifs connectés en temps réel.
